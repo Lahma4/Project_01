@@ -2,3 +2,8 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+.conteiner {
+  min-width: 11700px;
+  margin: auto;
+}
